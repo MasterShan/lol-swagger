@@ -1,0 +1,21 @@
+{
+  "name": "riot_api",
+  "version": "dfa1c0f97b9cc62a43c9fb91daa1b91b3e9485c2",
+  "description": "OpenAPISwagger_version_of_the__Riot_API_httpsdeveloper_riotgames_com__Automatically_generated_daily__Download_OpenAPI_Spec_FileThe_following_versions_of_the_Riot_API_spec_file_are_available__openapi_3_0_0_json___download_file___openapi_3_0_0_json__view_ui_openapi_3_0_0_json__openapi_3_0_0_min_json___download_file___openapi_3_0_0_min_json__view_ui_openapi_3_0_0_min_json__openapi_3_0_0_yml___download_file___openapi_3_0_0_yml__view_ui_openapi_3_0_0_yml__openapi_3_0_0_min_yml___download_file___openapi_3_0_0_min_yml__view_ui_openapi_3_0_0_min_yml__swaggerspec_2_0_json___download_file___swaggerspec_2_0_json__view_ui_swaggerspec_2_0_json__swaggerspec_2_0_min_json___download_file___swaggerspec_2_0_min_json__view_ui_swaggerspec_2_0_min_json__swaggerspec_2_0_yml___download_file___swaggerspec_2_0_yml__view_ui_swaggerspec_2_0_yml__swaggerspec_2_0_min_yml___download_file___swaggerspec_2_0_min_yml__view_ui_swaggerspec_2_0_min_yml_Source_CodeSource_code_on__GitHub_httpsgithub_comMingweiSamuelriotapi_schema__Pull_requests_welcome_Automatically_GeneratedRebuilt_on__Travis_CI_httpstravis_ci_orgMingweiSamuelriotapi_schemabuilds_daily_",
+  "license": "Unlicense",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "browser": {
+    "fs": false
+  },
+  "dependencies": {
+    "superagent": "3.7.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  }
+}

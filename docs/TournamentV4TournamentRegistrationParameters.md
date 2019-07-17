@@ -1,0 +1,9 @@
+# RiotApi.TournamentV4TournamentRegistrationParameters
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**providerId** | **Number** | The provider ID to specify the regional registered provider data to associate this tournament. | 
+**name** | **String** | The optional name of the tournament. | [optional] 
+
+
